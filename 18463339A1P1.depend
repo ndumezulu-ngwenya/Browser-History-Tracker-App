@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1715627107 source:c:\users\mercy\documents\unisa\cos2611\18463339a1p1\18463339a1p1\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<regex>
+
